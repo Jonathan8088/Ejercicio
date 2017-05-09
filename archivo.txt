@@ -1,0 +1,2 @@
+Fecha: Fri Feb 14 00:00:00 COT 2014
+Fecha string: 04:12:25
